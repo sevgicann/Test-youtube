@@ -33,5 +33,5 @@ try:
 except Exception as e:
     print("Test failed:", str(e))
 
-# WebDriver'ı kapat
+# WebDriver kapat
 driver.quit()
